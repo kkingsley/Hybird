@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Hybird.xcscheme</key>
+		<key>hybird.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>ACE7E8A31B8C9AD500BFFCF9</key>
+		<key>20ABBD811B9554A20061EB13</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>ACE7E8AE1B8C9AD500BFFCF9</key>
+		<key>20ABBD8C1B9554A30061EB13</key>
 		<dict>
 			<key>primary</key>
 			<true/>
